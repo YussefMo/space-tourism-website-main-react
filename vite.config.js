@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: "/space-tourism-website-main-react/",
-build: {
+  build: {
     outDir: "dist",
-},
+  },
 })
