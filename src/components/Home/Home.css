@@ -36,6 +36,7 @@
     background-color: var(--white);
     cursor: pointer;
     transition: 200ms;
+    color: black;
 }
 
 .home-button button:hover{
